@@ -1,7 +1,3 @@
----
-title: "Nathan Stephens — Aerospace Engineering Portfolio"
----
-
 # Nathan Stephens  
 **Aerospace Engineering Student | Controls & Aerodynamics | CFD | Orbital Mechanics**
 
