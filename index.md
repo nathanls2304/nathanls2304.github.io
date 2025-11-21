@@ -5,7 +5,7 @@ layout: default
 
 
 
-# Nathan Stephens' Engineering Portfolio  
+# Engineering Portfolio  
 
  
 I’m Nathan Stephens, a Senior Aerospace Engineering student at Florida Institute of Technology with hands-on experience in dynamic systems modeling, simulation, controls, structural analysis, and product development. I specialize in solving complex engineering problems using a combination of analytical modeling, numerical simulation, and hardware-focused design. My work spans multiple domains, including aerospace, mechanical systems, and embedded software, allowing me to bridge the gap between simulation, design, and real-world implementation.
