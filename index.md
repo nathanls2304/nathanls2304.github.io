@@ -1,3 +1,9 @@
+---
+title: ""
+layout: default
+---
+
+
 # Nathan Stephens
 **Aerospace Engineering Student**
 
