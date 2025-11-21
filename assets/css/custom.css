@@ -28,6 +28,21 @@ h1, h2, h3, h4 {
 body {
   line-height: 1.6;
 }
+/* Hide the default Minima footer */
+.site-footer {
+  display: none !important;
+}
+
+/* Add a custom footer */
+.custom-footer {
+  width: 100%;
+  text-align: center;
+  padding: 1.5rem 0;
+  font-size: 0.9rem;
+  color: #555;
+  border-top: 1px solid #eaeaea;
+  margin-top: 3rem;
+}
 
 /* Slight spacing under navigation bar */
 .site-nav {
