@@ -22,8 +22,10 @@ I enjoy tackling challenging technical problems, building practical solutions, a
 - [Payload-Carrying RC Aircraft](projects/rc_aircraft.md)
 - [Glider Design Project](projects/glider.md)
 
+
+
 ### 📄 **Resume**
 See: [Resume](resume.md)
 
-### 👤 **About**
+### 👤 **More About me:**
 Learn more: [About Me](about.md)
