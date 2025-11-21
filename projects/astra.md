@@ -1,5 +1,6 @@
-## Atmospheric Satellite Trajectory Repositioning Attachment (ASTRA)
+# ASTRA
 
+## Atmospheric - Satellite - Trajectory - Repositioning - Attachment
 A 2U CubeSat deployable drag device that enables orbital modulation without propulsion.
 
 ### Key Contributions
