@@ -1,5 +1,10 @@
-title: "Nathan Stephens"
+title: ""        # Hide site title in top-left
 theme: minima
+
+# Load custom CSS
 sass:
   load_paths:
     - assets/css
+
+# Optional: clean GitHub Pages defaults
+markdown: kramdown
