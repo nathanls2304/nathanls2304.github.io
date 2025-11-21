@@ -5,7 +5,7 @@ layout: default
 
 # Project ASTRA
 
-![Description of Image](/assets/images/astra_project_pic.png)
+![ASTRA Mission Patch](/assets/images/astra_project_pic.png)
 
 
 ## Atmospheric - Satellite - Trajectory - Repositioning - Attachment
