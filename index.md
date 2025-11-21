@@ -35,3 +35,7 @@ See: [Resume](resume.md)
 
 ### 👤 **More About me:**
 Learn more: [About Me](about.md)
+
+<div class="custom-footer">
+  © 2025 Nathan Stephens — Aerospace Engineering Portfolio
+</div>
