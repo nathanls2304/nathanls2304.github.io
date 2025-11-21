@@ -1,2 +1,5 @@
 title: "Nathan Stephens"
 theme: minima
+sass:
+  load_paths:
+    - assets/css
