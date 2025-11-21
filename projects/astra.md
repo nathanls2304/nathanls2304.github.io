@@ -1,6 +1,3 @@
-# A.S.T.R.A — CubeSat Drag-Sail Attachment  
-**Role: Controls Systems Engineer**
-
 A 2U CubeSat deployable drag device that enables orbital modulation without propulsion.
 
 ### Key Contributions
