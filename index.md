@@ -20,7 +20,7 @@ Core Technical Strengths:
 I enjoy tackling challenging technical problems, building practical solutions, and delivering designs that are functional, reliable, and backed by engineering analysis.
 
 
-### 🔧 **Some of my Engineering Projects Include:**
+###  **Some of my Engineering Projects Include:**
 - [A.S.T.R.A CubeSat Drag-Sail System](projects/astra.md)
 - [2D Bell Nozzle – Method of Characteristics](projects/nozzle.md)
 - [Attitude Determination & Control Simulator](projects/adcs.md)
@@ -30,7 +30,7 @@ I enjoy tackling challenging technical problems, building practical solutions, a
 
 
 
-### 📄 **Resume**
+###  **Resume**
 See: [Resume](resume.md)
 
 ### 👤 **More About me:**
