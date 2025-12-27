@@ -9,16 +9,17 @@ layout: default
   <img src="/nathanstephens.github.io/assets/images/astra_project_pic.png" width="450" alt="ASTRA Project Image">
 </p>
 
-
+<br>
+<br>
 
 ## Atmospheric - Satellite - Trajectory - Repositioning - Attachment
 A 2U CubeSat deployable drag device that enables orbital modulation without propulsion.
 
+<br>
+
 ### Key Contributions
 - Stability modeling using Aerotorque MATLAB framework
-- CFD work at 400 km for plate geometry
 - Control algorithm evaluation for deployment angle
 - Control Systems Trade Study for Flight Computer and Deployment Verification
+- Exploring the limitations of Computational Fluid Dynamics in Low Earth Orbit
 
-### Files:
-- [ASTRA PDR Slides](../assets/docs/Project_Senior_Design_ASTRA_PDR_Slides.pptx)
