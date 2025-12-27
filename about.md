@@ -5,11 +5,14 @@ layout: default
 
 ## About Me
 
-My Journey Into Aerospace
+### My Journey Into Aerospace
+
 My interest in aerospace began long ago. Growing up, I spent countless hours on flight simulators, flying everything from turboprops to wide-body jets, and even creating my own custom aircraft liveries. I would also occasionally visit the local airport or any nearby airport to planespot. That early curiosity gradually evolved into a passion for aerospace engineering.
 
+<br>
 
-Academic & Technical Growth
+### Academic & Technical Growth
+
 At Florida Institute of Technology, I’ve developed a strong foundation in aerodynamics, flight mechanics, and spacecraft systems through coursework, senior design projects, and independent simulations. My experience spans both atmospheric and space environments, including:
 - Aerodynamics & CFD (subsonic, transonic, and rarefied regimes)
 - Aircraft stability, control, and aerodynamic performance analysis
@@ -21,8 +24,9 @@ At Florida Institute of Technology, I’ve developed a strong foundation in aero
 
 Through these projects, I’ve learned to design systems from concept → analysis → prototyping → testing.
 
+<br>
 
-What I Enjoy Working On
+### What I Enjoy Working On
 
 I’m especially drawn to work at the intersection of aerodynamics, controls, and system design, including:
 - Complex dynamics and control
@@ -33,8 +37,9 @@ I’m especially drawn to work at the intersection of aerodynamics, controls, an
 
 I enjoy solving open-ended problems, collaborating with teams, and developing systems that have a tangible impact in the real world.
 
+<br>
 
-My Goals
+### My Goals
 
 As I grow as an engineer, I aim to:
 - Work in aerodynamic design, stability & control, or flight sciences
@@ -44,8 +49,9 @@ As I grow as an engineer, I aim to:
 - Build technologies that improve reliability, efficiency, and sustainability in flight
 - Ultimately, my goal is to be an engineer who builds systems that make flight safer, cleaner, and more capable.
 
+<br>
 
-Beyond Engineering
+### Beyond Engineering
 
 Outside of academics and projects, I’m someone who enjoys a mix of creativity, community, and storytelling:
 - Music: One of my biggest sources of creativity and focus. I especially enjoy exploring different genres.
