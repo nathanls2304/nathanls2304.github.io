@@ -96,6 +96,8 @@ Initial results showed that increasing the sail angle moves the center of pressu
 - Deployment angle control provides meaningful stability benefits with minimal power usage
 - CFD tools are poorly suited for free molecular flow without DSMC methods
 
+<br>
 
+<br>
 
 *This project represents a conceptual and analytical design study and was not intended for flight.*
