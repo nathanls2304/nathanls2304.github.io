@@ -11,3 +11,4 @@ sass:
 markdown: kramdown
 kramdown:
   input: GFM
+footer: ""
