@@ -17,15 +17,18 @@ The work emphasized system-level trade studies, subsystem interfaces, and missio
 
 <br>
 
-### My Role – Communications Engineer
+## My Role – Communications and Avionics Engineer
 
-I was responsible for the **communications and ground segment architecture**, including:
+I served as the **Communications and Avionics Engineer**, responsible for:
 
-- S-band TT&C uplink/downlink architecture
-- X-band payload data downlink strategy for SAR imagery
-- Ground station selection and coverage analysis
-- Data storage and processing pipeline design
-- Identification of bandwidth, latency, and congestion risks
+- S-band TT&C architecture for command and telemetry
+- X-band payload downlink strategy for SAR data
+- Inter-satellite link (ISL) concept development
+- Ground station and data routing architecture
+- On-board avionics trade studies and interface definition
+- Identification of bandwidth, latency, and data-handling constraints
+
+My work focused on ensuring reliable data flow across the spacecraft, constellation, and ground infrastructure while balancing performance, complexity, and scalability.
 
 
 <br>
@@ -38,6 +41,20 @@ The mission architecture separates low-rate command and telemetry from high-rate
 - **X-band** used for high-throughput SAR payload data
 - Distributed ground stations selected to minimize data latency
 - Data archived and processed using cloud-based storage and analytics
+
+<br>
+
+### Inter-Satellite Links (ISL)
+
+The constellation architecture incorporated **inter-satellite links (ISLs)** to improve data routing efficiency and reduce reliance on immediate ground contact. ISLs enable satellites with limited ground visibility to relay data through neighboring spacecraft with active downlink opportunities.
+
+Key considerations included:
+- Use of high-data-rate SDR-based transceivers for inter-satellite communication
+- Reduction of onboard data backlog by distributing payload data across the constellation
+- Improved responsiveness for time-sensitive maritime monitoring
+- Increased resilience against temporary ground station outages
+
+The ISL concept was evaluated at a system level to assess scalability, cost, and operational complexity.
 
 <br>
 
@@ -69,10 +86,12 @@ This project required balancing competing constraints across propulsion, power, 
 
 ### Lessons Learned
 
-- SAR payloads drive mission architecture more than any other subsystem
-- Communications is often the limiting factor in Earth-observation missions
-- Early ground segment design is critical for constellation scalability
-- Academic mission studies must balance ambition with realism
+- Communications and data handling are often the limiting factors in Earth-observation missions
+- Inter-satellite links can significantly improve constellation responsiveness and flexibility
+- Early definition of avionics interfaces reduces integration risk across subsystems
+- Ground segment design is as critical as space segment design for mission success
+- Redundancy and fault tolerance must be considered early in constellation-scale systems
+
 
 <br>
 
