@@ -2,7 +2,7 @@ title: "Nathan Stephens"
 
 theme: minima
 
-footer: ""
+
 
 # Load custom CSS
 sass:
@@ -14,3 +14,4 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+show_footer: false
