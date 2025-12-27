@@ -36,8 +36,11 @@ body {
   margin-bottom: 1.2rem;
 }
 
-footer,
-.site-footer {
-  display: none !important;
+.site-footer::before {
+  content: "© 2025 Nathan Stephens";
+}
+
+.site-footer * {
+  display: none;
 }
 
