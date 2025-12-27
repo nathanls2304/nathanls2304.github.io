@@ -5,9 +5,7 @@ layout: default
 
 # Project ASTRA
 
-<p align="center">
-  <img src="/nathanstephens.github.io/assets/images/astra_pic" alt="ASTRA Project Image">
-</p>
+
 
 <br>
 <br>
