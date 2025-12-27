@@ -26,6 +26,10 @@ Project A.S.T.R.A. proposes an expandable CubeSat attachment capable of modulati
 - Control Systems Trade Study for Flight Computer and Deployment Verification
 - Exploring the limitations of Computational Fluid Dynamics in Low Earth Orbit
 
+<br>
+
+### Design
+
 <img src="{{ site.baseurl }}/assets/images/astra_current_design.png"
      alt="ASTRA Current Design"
      style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1.25rem auto 2rem auto; border-radius: 12px;" />
