@@ -29,12 +29,18 @@ I enjoy tackling challenging technical problems, building practical solutions, a
 - [LEO SAR Anti-Piracy Mission](projects/sar.md)
 - [Payload-Carrying RC Aircraft](projects/rc_aircraft.md)
 - [2D Bell Nozzle – Method of Characteristics](projects/nozzle.md)
+
+
+<br>
+
+
 <br>
 
 
 ###  **Resume**
 See: [Resume](resume.md)
-<br>
+
+
 ### 👤 **More About me:**
 Learn more: [About Me](about.md)
 
