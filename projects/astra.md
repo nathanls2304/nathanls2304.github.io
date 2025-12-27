@@ -5,9 +5,8 @@ layout: default
 
 # Project ASTRA
 
-<img src="{{ site.baseurl }}/assets/images/astra_pic.png"
-     alt="ASTRA logo"
-     style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1.25rem auto 2rem auto; border-radius: 12px;" />
+![ASTRA logo](/assets/images/astra_pic.png)
+/>
 
 
 <br>
