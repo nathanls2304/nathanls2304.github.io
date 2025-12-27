@@ -6,7 +6,7 @@ layout: default
 # Project ASTRA
 
 ![ASTRA logo](/assets/images/astra_pic.png)
-/>
+
 
 
 <br>
