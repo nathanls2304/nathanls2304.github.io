@@ -19,7 +19,7 @@ The work emphasized system-level trade studies, subsystem interfaces, and missio
 
 ## My Role – Communications and Avionics Engineer
 
-I served as the **Communications and Avionics Engineer**, responsible for:
+I served as the Communications and Avionics Engineer, responsible for:
 
 - S-band TT&C architecture for command and telemetry
 - X-band payload downlink strategy for SAR data
@@ -37,8 +37,8 @@ My work focused on ensuring reliable data flow across the spacecraft, constellat
 
 The mission architecture separates low-rate command and telemetry from high-rate SAR data downlink:
 
-- **S-band** used for TT&C to ensure reliability and global availability
-- **X-band** used for high-throughput SAR payload data
+- S-band used for TT&C to ensure reliability and global availability
+- X-band used for high-throughput SAR payload data
 - Distributed ground stations selected to minimize data latency
 - Data archived and processed using cloud-based storage and analytics
 
@@ -46,7 +46,7 @@ The mission architecture separates low-rate command and telemetry from high-rate
 
 ### Inter-Satellite Links (ISL)
 
-The constellation architecture incorporated **inter-satellite links (ISLs)** to improve data routing efficiency and reduce reliance on immediate ground contact. ISLs enable satellites with limited ground visibility to relay data through neighboring spacecraft with active downlink opportunities.
+The constellation architecture incorporated inter-satellite links to improve data routing efficiency and reduce reliance on immediate ground contact. ISLs enable satellites with limited ground visibility to relay data through neighboring spacecraft with active downlink opportunities.
 
 Key considerations included:
 - Use of high-data-rate SDR-based transceivers for inter-satellite communication
@@ -60,7 +60,7 @@ The ISL concept was evaluated at a system level to assess scalability, cost, and
 
 ### Key Communications Challenges
 
-- High SAR data volumes creating onboard storage and downlink bottlenecks
+- High SAR data volumes create onboard storage and downlink bottlenecks
 - Frequency congestion in S-band and X-band over high-traffic regions
 - Limited ground contact times requiring efficient scheduling
 - Atmospheric losses (e.g., rain fade) impacting X-band reliability
