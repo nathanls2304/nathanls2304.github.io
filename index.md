@@ -28,7 +28,7 @@ I enjoy tackling challenging technical problems, building practical solutions, a
 - [Attitude Determination & Control Simulator](projects/adcs.md)
 - [LEO SAR Anti-Piracy Mission](projects/sar.md)
 - [Payload-Carrying RC Aircraft](projects/rc_aircraft.md)
-- [2D Bell Nozzle – Method of Characteristics](projects/nozzle.md)
+
 
 
 <br>
