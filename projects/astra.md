@@ -69,9 +69,13 @@ Aerodynamic stability was evaluated by analyzing how the center of pressure shif
 
 Initial results showed that increasing the sail angle moves the center of pressure downstream, generating restoring aerodynamic moments that passively stabilize the spacecraft. Maximum passive stability occurred at deployment angles between approximately 30° and 40°.
 
+<br>
+
 <img src="{{ site.baseurl }}/assets/images/astra_cpwing.png"
      alt="ASTRA CP Wing"
      style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1.25rem auto 2rem auto; border-radius: 12px;" />
+
+*Center of Pressure versus Deployment Sail Angle*
 
 <br>
 
