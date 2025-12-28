@@ -38,11 +38,16 @@ ASTRA is a 2U CubeSat attachment designed to modulate aerodynamic drag by deploy
 <img src="{{ site.baseurl }}/assets/images/astra_curent_design.png"
      alt="ASTRA Current Design"
      style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1.25rem auto 2rem auto; border-radius: 12px;" />
+
+*Attachment Current Design with booms deployed*
+
+<br>
      
 <img src="{{ site.baseurl }}/assets/images/astra_modulation.png"
      alt="ASTRA Modulation"
      style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1.25rem auto 2rem auto; border-radius: 12px;" />
 
+*Attachment Curent Design Zoomed in*
 
 <br>
 
