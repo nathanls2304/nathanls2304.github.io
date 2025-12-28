@@ -58,28 +58,27 @@ While fabrication and flight testing were not completed, the design demonstrated
 
 ### Aircraft Configuration and Layout
 
-<img src="/assets/images/rc_assembly_exploded.png"
-     alt="Exploded conceptul view of RC aircraft"
-     style="display: block; margin: 1.5rem auto; max-width: 100%; height: auto;" />
+<img src="{{ site.baseurl }}/assets/images/rc_render.png"
+     alt="Rendered Concept"
+     style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1.25rem auto 2rem auto; border-radius: 12px;" />
+
+*Rendered visualization of the final conceptual aircraft configuration, representing the intended external geometry and component placement prior to fabrication.*
+
+<br>
+
+<img src="{{ site.baseurl }}/assets/images/rc_assembly_exploded.png"
+     alt="Assembly Exploded visual"
+     style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1.25rem auto 2rem auto; border-radius: 12px;" />
 
 *Exploded conceptual view illustrating payload integration, wing structure, propulsion placement, and major airframe components. This configuration was developed to support mass budgeting, center-of-gravity analysis, and subsystem layout.*
 
 <br>
 
-<img src="/assets/images/rc_hidden_line_sketch.png"
-     alt="Orthographic and isometric layout views of RC aircraft"
-     style="display: block; margin: 1.5rem auto; max-width: 100%; height: auto;" />
-
+<img src="{{ site.baseurl }}/assets/images/rc_hidden_line_sketch.png"
+     alt="Hidden Line Sketch"
+     style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1.25rem auto 2rem auto; border-radius: 12px;" />
 
 *Orthographic and isometric layout views used to evaluate aircraft geometry, control surface placement, and overall configuration during the conceptual design phase.*
-
-<br>
-
-<img src="/assets/images/rc_render.png"
-     alt="Rendered Visualization of RC aircraft"
-     style="display: block; margin: 1.5rem auto; max-width: 100%; height: auto;" />
-
-*Rendered visualization of the final conceptual aircraft configuration, representing the intended external geometry and component placement prior to fabrication.*
 
 <br>
 
