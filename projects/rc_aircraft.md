@@ -13,7 +13,7 @@ Due to time and resource limitations, the project concluded at the design and an
 
 ### Design Requirements
 
-- Payload mass requirement (e.g., cylindrical payload)
+- Payload mass requirement
 - Hand-launch capability
 - Stable, controllable flight characteristics
 - Compliance with size and weight constraints
@@ -58,7 +58,9 @@ While fabrication and flight testing were not completed, the design demonstrated
 
 ### Aircraft Configuration and Layout
 
-![Exploded conceptual assembly of payload-carrying RC aircraft](/assets/images/rc_assembly_exploded.png)
+<img src="/assets/images/rc_assembly_exploded.png"
+     alt="Exploded conceptul view of RC aircraft"
+     style="display: block; margin: 1.5rem auto; max-width: 100%; height: auto;" />
 
 *Exploded conceptual view illustrating payload integration, wing structure, propulsion placement, and major airframe components. This configuration was developed to support mass budgeting, center-of-gravity analysis, and subsystem layout.*
 
@@ -73,7 +75,9 @@ While fabrication and flight testing were not completed, the design demonstrated
 
 <br>
 
-![Rendered conceptual configuration of RC aircraft](/assets/images/rc_render.png)
+<img src="/assets/images/rc_render.png"
+     alt="Rendered Visualization of RC aircraft"
+     style="display: block; margin: 1.5rem auto; max-width: 100%; height: auto;" />
 
 *Rendered visualization of the final conceptual aircraft configuration, representing the intended external geometry and component placement prior to fabrication.*
 
