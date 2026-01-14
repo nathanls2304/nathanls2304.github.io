@@ -26,10 +26,10 @@ I enjoy tackling challenging technical problems, building practical solutions, a
 
 ### Some of my Engineering Projects Include:
 
-- **A.S.T.R.A CubeSat Drag-Sail System** — [View project →](projects/astra)
-- **Attitude Determination & Control Simulator** — [View project →](projects/adcs)
-- **LEO SAR Anti-Piracy Mission** — [View project →](projects/sar)
-- **Payload-Carrying RC Aircraft** — [View project →](projects/rc_aircraft)
+- **A.S.T.R.A CubeSat Drag-Sail System** — [View project](projects/astra)
+- **Attitude Determination & Control Simulator** — [View project](projects/adcs)
+- **LEO SAR Anti-Piracy Mission** — [View project](projects/sar)
+- **Payload-Carrying RC Aircraft** — [View project](projects/rc_aircraft)
 
 
 
@@ -39,7 +39,7 @@ I enjoy tackling challenging technical problems, building practical solutions, a
 
 - **Simulation Visualization & Asset Development:**  
   Created and integrated custom aircraft liveries for Flight Simulator X and Microsoft Flight Simulator 2020 using Blender and GIMP.  
-  Work included UV-mapped texture alignment, high-resolution texture painting, and simulator-specific asset integration and verification. **Flight Simulator Livery Design Project** — [View project→](projects/flight-sim-liveries.html)
+  Work included UV-mapped texture alignment, high-resolution texture painting, and simulator-specific asset integration and verification. **Flight Simulator Livery Design Project** — [View project](projects/flight-sim-liveries.html)
 
 - **Technical Tooling:**  
   Experience working across graphical and simulation pipelines alongside analytical engineering tools, bridging visual design with system-level simulation environments.
